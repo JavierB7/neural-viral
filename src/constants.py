@@ -1,7 +1,7 @@
 LABELS = {
-    "protein": "PROTEINA",
-    "virus": "VIRUS",
-    "drug": "FARMACO"
+    "proteins": "PROTEINA",
+    "viruses": "VIRUS",
+    "drugs": "FARMACO"
 }
 
 DRUGS_FINISH_LINE = 19
