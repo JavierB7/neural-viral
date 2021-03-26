@@ -29865,4 +29865,3 @@ T helper cell responses to the peptides were evaluated by ELISpot (gamma-interfe
 However, SIVcpz nef genes as a group showed a 1.8-and 2.0-fold-higher activity in modulating CD28 (P = 0.0002) and Ii (P = 0.016) surface expression, respectively, but were 1.7-fold less active in down-regulating MHC class II molecules (P = 0.006) compared to HIV-1 M nef genes.
 
 By comparison, human type I interferons, IFN-alpha and IFN-beta, showed similar effects (enhanced the expression by about 40-60 %) to ISP-BSA on the MHC class I expression on H9 and U937 cells.
-
